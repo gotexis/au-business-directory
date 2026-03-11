@@ -1,0 +1,42 @@
+[
+  {
+    "code": "NSW",
+    "name": "New South Wales",
+    "suburbCount": 20
+  },
+  {
+    "code": "VIC",
+    "name": "Victoria",
+    "suburbCount": 20
+  },
+  {
+    "code": "QLD",
+    "name": "Queensland",
+    "suburbCount": 20
+  },
+  {
+    "code": "WA",
+    "name": "Western Australia",
+    "suburbCount": 20
+  },
+  {
+    "code": "SA",
+    "name": "South Australia",
+    "suburbCount": 10
+  },
+  {
+    "code": "TAS",
+    "name": "Tasmania",
+    "suburbCount": 10
+  },
+  {
+    "code": "ACT",
+    "name": "Australian Capital Territory",
+    "suburbCount": 10
+  },
+  {
+    "code": "NT",
+    "name": "Northern Territory",
+    "suburbCount": 5
+  }
+]

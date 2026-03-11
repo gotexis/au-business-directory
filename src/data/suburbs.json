@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Sydney",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "sydney"
+  },
+  {
+    "name": "Parramatta",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "parramatta"
+  },
+  {
+    "name": "Bondi",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "bondi"
+  },
+  {
+    "name": "Manly",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "manly"
+  },
+  {
+    "name": "Chatswood",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "chatswood"
+  },
+  {
+    "name": "Bankstown",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "bankstown"
+  },
+  {
+    "name": "Liverpool",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "liverpool"
+  },
+  {
+    "name": "Penrith",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "penrith"
+  },
+  {
+    "name": "Newcastle",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "newcastle"
+  },
+  {
+    "name": "Wollongong",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "wollongong"
+  },
+  {
+    "name": "Blacktown",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "blacktown"
+  },
+  {
+    "name": "Hornsby",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "hornsby"
+  },
+  {
+    "name": "Hurstville",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "hurstville"
+  },
+  {
+    "name": "Burwood",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "burwood"
+  },
+  {
+    "name": "Strathfield",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "strathfield"
+  },
+  {
+    "name": "Epping",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "epping"
+  },
+  {
+    "name": "Ryde",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "ryde"
+  },
+  {
+    "name": "Dee Why",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "dee-why"
+  },
+  {
+    "name": "Cronulla",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "cronulla"
+  },
+  {
+    "name": "Campbelltown",
+    "state": "NSW",
+    "stateName": "New South Wales",
+    "slug": "campbelltown"
+  },
+  {
+    "name": "Melbourne",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "melbourne"
+  },
+  {
+    "name": "St Kilda",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "st-kilda"
+  },
+  {
+    "name": "Richmond",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "richmond"
+  },
+  {
+    "name": "South Yarra",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "south-yarra"
+  },
+  {
+    "name": "Fitzroy",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "fitzroy"
+  },
+  {
+    "name": "Brunswick",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "brunswick"
+  },
+  {
+    "name": "Footscray",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "footscray"
+  },
+  {
+    "name": "Box Hill",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "box-hill"
+  },
+  {
+    "name": "Dandenong",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "dandenong"
+  },
+  {
+    "name": "Geelong",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "geelong"
+  },
+  {
+    "name": "Frankston",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "frankston"
+  },
+  {
+    "name": "Doncaster",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "doncaster"
+  },
+  {
+    "name": "Glen Waverley",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "glen-waverley"
+  },
+  {
+    "name": "Hawthorn",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "hawthorn"
+  },
+  {
+    "name": "Carlton",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "carlton"
+  },
+  {
+    "name": "Prahran",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "prahran"
+  },
+  {
+    "name": "Collingwood",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "collingwood"
+  },
+  {
+    "name": "Moonee Ponds",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "moonee-ponds"
+  },
+  {
+    "name": "Essendon",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "essendon"
+  },
+  {
+    "name": "Brighton",
+    "state": "VIC",
+    "stateName": "Victoria",
+    "slug": "brighton"
+  },
+  {
+    "name": "Brisbane",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "brisbane"
+  },
+  {
+    "name": "Gold Coast",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "gold-coast"
+  },
+  {
+    "name": "Sunshine Coast",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "sunshine-coast"
+  },
+  {
+    "name": "Cairns",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "cairns"
+  },
+  {
+    "name": "Townsville",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "townsville"
+  },
+  {
+    "name": "Toowoomba",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "toowoomba"
+  },
+  {
+    "name": "Surfers Paradise",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "surfers-paradise"
+  },
+  {
+    "name": "Southport",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "southport"
+  },
+  {
+    "name": "Ipswich",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "ipswich"
+  },
+  {
+    "name": "Rockhampton",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "rockhampton"
+  },
+  {
+    "name": "Fortitude Valley",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "fortitude-valley"
+  },
+  {
+    "name": "South Brisbane",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "south-brisbane"
+  },
+  {
+    "name": "West End",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "west-end"
+  },
+  {
+    "name": "New Farm",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "new-farm"
+  },
+  {
+    "name": "Paddington",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "paddington"
+  },
+  {
+    "name": "Bulimba",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "bulimba"
+  },
+  {
+    "name": "Carindale",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "carindale"
+  },
+  {
+    "name": "Chermside",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "chermside"
+  },
+  {
+    "name": "Indooroopilly",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "indooroopilly"
+  },
+  {
+    "name": "Mount Gravatt",
+    "state": "QLD",
+    "stateName": "Queensland",
+    "slug": "mount-gravatt"
+  },
+  {
+    "name": "Perth",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "perth"
+  },
+  {
+    "name": "Fremantle",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "fremantle"
+  },
+  {
+    "name": "Subiaco",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "subiaco"
+  },
+  {
+    "name": "Joondalup",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "joondalup"
+  },
+  {
+    "name": "Rockingham",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "rockingham"
+  },
+  {
+    "name": "Mandurah",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "mandurah"
+  },
+  {
+    "name": "Midland",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "midland"
+  },
+  {
+    "name": "Armadale",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "armadale"
+  },
+  {
+    "name": "Scarborough",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "scarborough"
+  },
+  {
+    "name": "Cottesloe",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "cottesloe"
+  },
+  {
+    "name": "Morley",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "morley"
+  },
+  {
+    "name": "Cannington",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "cannington"
+  },
+  {
+    "name": "Victoria Park",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "victoria-park"
+  },
+  {
+    "name": "Leederville",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "leederville"
+  },
+  {
+    "name": "Mount Lawley",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "mount-lawley"
+  },
+  {
+    "name": "Claremont",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "claremont"
+  },
+  {
+    "name": "Nedlands",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "nedlands"
+  },
+  {
+    "name": "Como",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "como"
+  },
+  {
+    "name": "Karrinyup",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "karrinyup"
+  },
+  {
+    "name": "Balcatta",
+    "state": "WA",
+    "stateName": "Western Australia",
+    "slug": "balcatta"
+  },
+  {
+    "name": "Adelaide",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "adelaide"
+  },
+  {
+    "name": "Glenelg",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "glenelg"
+  },
+  {
+    "name": "Norwood",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "norwood"
+  },
+  {
+    "name": "Unley",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "unley"
+  },
+  {
+    "name": "Prospect",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "prospect"
+  },
+  {
+    "name": "North Adelaide",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "north-adelaide"
+  },
+  {
+    "name": "Port Adelaide",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "port-adelaide"
+  },
+  {
+    "name": "Modbury",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "modbury"
+  },
+  {
+    "name": "Marion",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "marion"
+  },
+  {
+    "name": "Salisbury",
+    "state": "SA",
+    "stateName": "South Australia",
+    "slug": "salisbury"
+  },
+  {
+    "name": "Hobart",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "hobart"
+  },
+  {
+    "name": "Launceston",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "launceston"
+  },
+  {
+    "name": "Devonport",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "devonport"
+  },
+  {
+    "name": "Burnie",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "burnie"
+  },
+  {
+    "name": "Sandy Bay",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "sandy-bay"
+  },
+  {
+    "name": "Battery Point",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "battery-point"
+  },
+  {
+    "name": "North Hobart",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "north-hobart"
+  },
+  {
+    "name": "Glenorchy",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "glenorchy"
+  },
+  {
+    "name": "Kingston",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "kingston"
+  },
+  {
+    "name": "Moonah",
+    "state": "TAS",
+    "stateName": "Tasmania",
+    "slug": "moonah"
+  },
+  {
+    "name": "Canberra",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "canberra"
+  },
+  {
+    "name": "Belconnen",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "belconnen"
+  },
+  {
+    "name": "Woden",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "woden"
+  },
+  {
+    "name": "Tuggeranong",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "tuggeranong"
+  },
+  {
+    "name": "Gungahlin",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "gungahlin"
+  },
+  {
+    "name": "Braddon",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "braddon"
+  },
+  {
+    "name": "Kingston",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "kingston"
+  },
+  {
+    "name": "Manuka",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "manuka"
+  },
+  {
+    "name": "Dickson",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "dickson"
+  },
+  {
+    "name": "Fyshwick",
+    "state": "ACT",
+    "stateName": "Australian Capital Territory",
+    "slug": "fyshwick"
+  },
+  {
+    "name": "Darwin",
+    "state": "NT",
+    "stateName": "Northern Territory",
+    "slug": "darwin"
+  },
+  {
+    "name": "Alice Springs",
+    "state": "NT",
+    "stateName": "Northern Territory",
+    "slug": "alice-springs"
+  },
+  {
+    "name": "Palmerston",
+    "state": "NT",
+    "stateName": "Northern Territory",
+    "slug": "palmerston"
+  },
+  {
+    "name": "Casuarina",
+    "state": "NT",
+    "stateName": "Northern Territory",
+    "slug": "casuarina"
+  },
+  {
+    "name": "Stuart Park",
+    "state": "NT",
+    "stateName": "Northern Territory",
+    "slug": "stuart-park"
+  }
+]

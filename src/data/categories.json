@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "plumber",
+    "name": "Plumbing Services",
+    "count": 100
+  },
+  {
+    "slug": "electrician",
+    "name": "Electrical Services",
+    "count": 100
+  },
+  {
+    "slug": "carpenter",
+    "name": "Carpentry & Joinery",
+    "count": 100
+  },
+  {
+    "slug": "painter",
+    "name": "Painting Services",
+    "count": 100
+  },
+  {
+    "slug": "mechanic",
+    "name": "Automotive Repair",
+    "count": 100
+  },
+  {
+    "slug": "dentist",
+    "name": "Dental Services",
+    "count": 100
+  },
+  {
+    "slug": "accountant",
+    "name": "Accounting & Tax",
+    "count": 100
+  },
+  {
+    "slug": "lawyer",
+    "name": "Legal Services",
+    "count": 100
+  },
+  {
+    "slug": "restaurant",
+    "name": "Restaurants & Cafes",
+    "count": 100
+  },
+  {
+    "slug": "gym",
+    "name": "Gyms & Fitness",
+    "count": 100
+  },
+  {
+    "slug": "real-estate",
+    "name": "Real Estate",
+    "count": 100
+  },
+  {
+    "slug": "hairdresser",
+    "name": "Hair & Beauty",
+    "count": 100
+  },
+  {
+    "slug": "cleaner",
+    "name": "Cleaning Services",
+    "count": 100
+  },
+  {
+    "slug": "locksmith",
+    "name": "Locksmith Services",
+    "count": 100
+  },
+  {
+    "slug": "photographer",
+    "name": "Photography",
+    "count": 100
+  },
+  {
+    "slug": "vet",
+    "name": "Veterinary Services",
+    "count": 100
+  },
+  {
+    "slug": "gardener",
+    "name": "Garden & Landscaping",
+    "count": 100
+  },
+  {
+    "slug": "removalist",
+    "name": "Removalists & Moving",
+    "count": 100
+  },
+  {
+    "slug": "builder",
+    "name": "Builders & Construction",
+    "count": 100
+  },
+  {
+    "slug": "roofing",
+    "name": "Roofing Services",
+    "count": 100
+  }
+]
