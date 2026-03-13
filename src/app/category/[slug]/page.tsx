@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = categories.find((c) => c.slug === slug);
   if (!cat) return {};
   return {
-    title: `${cat.name} in Australia — AU Business Directory`,
-    description: `Find ${cat.count} registered ${cat.name.toLowerCase()} businesses across Australia. Verified ASIC data.`,
+    title: `${cat.name} in Australia — ABN Lookup Australia`,
+    description: `Verify ${cat.count} registered ${cat.name.toLowerCase()} businesses across Australia. Official ASIC data with ABN lookup.`,
   };
 }
 
@@ -72,7 +72,11 @@ export default async function CategoryPage({ params }: Props) {
           <tbody>
             {catBusinesses.map((biz, i) => (
               <tr key={i}>
-                <td className="font-medium">{biz.name}</td>
+                <td className="font-medium">
+                  <Link href={`/business/${biz.abn}`} className="link link-hover">
+                    {biz.name}
+                  </Link>
+                </td>
                 <td>{biz.state || "—"}</td>
                 <td className="font-mono text-sm">{biz.abn}</td>
                 <td className="text-sm opacity-70">{biz.registeredDate}</td>
